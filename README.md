@@ -1,8 +1,8 @@
 Calibration Collapse: On the Disconnect Between Predictive Probability and Ground Truth in Deep Neural Networks
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/python-3.8+-blue.svg
-https://img.shields.io/badge/PyTorch-2.0+-red.svg
-https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white)
 
 Calibration Collapse is a technical paper and a experimental project investigating miscalibration and overconfidence in deep neural networks. This repository contains the full code, experimental results, and the accompanying research paper.
 
@@ -31,29 +31,29 @@ Key contributions:
 text
 calibration-collapse-mnist/
 │
-├── paper/                        # Research paper (PDF)
+├── paper/                        
 │   └── Calibration_Collapse.pdf
 │
-├── notebook/                     # Jupyter notebook (Google Colab ready)
+├── notebook/                     
 │   └── MNIST.ipynb
 │
-├── src/                          # Python source code
-│   └── mnist.py                  # Full experiment script
+├── src/                          
+│   └── mnist.py                  
 │
-├── figures/                      # All generated figures
+├── figures/                      
 │   ├── figure1_confidence_distribution.png
 │   ├── figure2_reliability_diagram.png
 │   └── figure3_confidently_wrong.png
 │
-├── models/                       # Trained model weights
+├── models/                       
 │   └── mnist_model.pth
 │
-├── results/                      # Experimental results
+├── results/                      
 │   └── table1_summary.csv
 │
-├── README.md                     # This file
-├── requirements.txt              # Python dependencies
-└── LICENSE                       # MIT License
+├── README.md                     
+├── requirements.txt              
+└── LICENSE                       
 
 🚀 Getting Started
 Option 1: Run in Google Colab (Recommended)
@@ -114,6 +114,7 @@ In high‑stakes domains — healthcare, autonomous vehicles, criminal justice �
 
 "The ability to say 'I don't know' is as important as the ability to be correct."
 
+
 📚 Citation
 If you use this work, please cite:
 
@@ -125,6 +126,8 @@ bibtex
   note      = {The Approach Papers — Volume 2},
   url       = {https://github.com/Priyanshu-Technologies/calibration-collapse-mnist}
 }
+
+
 📝 References
 Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. (2017). On Calibration of Modern Neural Networks. ICML.
 
@@ -138,6 +141,7 @@ Gal, Y., & Ghahramani, Z. (2016). Dropout as a Bayesian Approximation: Represent
 
 Full references in the paper.
 
+
 🤝 Contributing
 This is an open‑source research project. Contributions are welcome!
 
@@ -146,11 +150,15 @@ This is an open‑source research project. Contributions are welcome!
 💡 Suggest improvements — Open an issue or discussion
 
 🔧 Submit code — Fork, make your changes, and open a pull request
+
+
 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
+
 Acknowledgements
 Special thanks to the AI safety research community for highlighting the importance of uncertainty quantification in deep learning. This work is part of The Approach Papers series — dedicated to exploring the reasoning behind scientific concepts.
+
 
 📬 Contact
 Priyanshu Sharma
