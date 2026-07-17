@@ -10,7 +10,7 @@ Calibration Collapse is a technical paper and a experimental project investigati
 
 Read the complete paper here:
 
-[Calibration_Collapse.pdf](paper/Calibration_Collapse.pdf)
+[Calibration_Collapse.pdf](calibration-collapse-mnist/Paper/Calibration_Collapse.pdf)
 
 📌 Overview
 Modern deep neural networks often produce high‑confidence predictions that are incorrect — a phenomenon known as miscalibration or overconfidence. This project explores the causes of calibration collapse, demonstrates the confidence‑accuracy gap empirically on MNIST, and discusses implications for AI safety.
