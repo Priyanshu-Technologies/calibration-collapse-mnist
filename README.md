@@ -56,7 +56,7 @@ calibration-collapse-mnist/
 
 🚀 Getting Started
 Option 1: Run in Google Colab (Recommended)
-https://colab.research.google.com/assets/colab-badge.svg
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Priyanshu-Technologies/calibration-collapse-mnist/blob/main/notebook/MNIST.ipynb)
 
 Click the badge above to open the notebook in Colab.
 
