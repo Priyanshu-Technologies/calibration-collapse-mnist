@@ -1,0 +1,8 @@
+Metric,Value
+Total test samples,10000
+Correct predictions,9707 (97.1%)
+Incorrect predictions,293 (2.9%)
+Incorrect with >90% confidence,84
+% of wrong predictions >90% conf,28.7%
+ECE,0.96%
+MCE,16.82%
